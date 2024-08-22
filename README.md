@@ -15,7 +15,7 @@ OAuth specifies four roles:
 - Client credentials
 - Implicit
 
-** Password grant type is a way to exchange a user's credentials for an access token. The client application will collect the user's password and send it to the authorization server **
+**Password grant type is a way to exchange a user's credentials for an access token. The client application will collect the user's password and send it to the authorization server**
 
 
 ![image](https://github.com/user-attachments/assets/c48b55fd-fefe-4f7a-8473-660fb8ea3387)
